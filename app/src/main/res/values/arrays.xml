@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="MaxCoffee">
+        <item>@drawable/max1</item>
+        <item>@drawable/max2</item>
+        <item>@drawable/max3</item>
+        <item>@drawable/max4</item>
+        <item>@drawable/max5</item>
+        <item>@drawable/max6</item>
+        <item>@drawable/max7</item>
+        <item>@drawable/max8</item>
+        <item>@drawable/max9</item>
+    </string-array>
+</resources>
